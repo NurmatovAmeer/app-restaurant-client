@@ -1,1 +1,1 @@
-# restaurant
+# app-restaurant-client
